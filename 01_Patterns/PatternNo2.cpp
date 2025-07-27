@@ -15,3 +15,10 @@ int main(){
     print(N);
     return 0;
 }
+
+Output:
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
